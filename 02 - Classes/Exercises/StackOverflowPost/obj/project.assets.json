@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\Classes\\Exercises\\StackOverflowPost\\StackOverflowPost.csproj",
+      "projectUniqueName": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\02 - Classes\\Exercises\\StackOverflowPost\\StackOverflowPost.csproj",
       "projectName": "StackOverflowPost",
-      "projectPath": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\Classes\\Exercises\\StackOverflowPost\\StackOverflowPost.csproj",
+      "projectPath": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\02 - Classes\\Exercises\\StackOverflowPost\\StackOverflowPost.csproj",
       "packagesPath": "C:\\Users\\camer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\Classes\\Exercises\\StackOverflowPost\\obj\\",
+      "outputPath": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\02 - Classes\\Exercises\\StackOverflowPost\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\camer\\AppData\\Roaming\\NuGet\\NuGet.Config"

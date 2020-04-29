@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\Classes\\Access Modifiers\\Access Modifiers.csproj",
+      "projectUniqueName": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\02 - Classes\\Access Modifiers\\Access Modifiers.csproj",
       "projectName": "Access Modifiers",
-      "projectPath": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\Classes\\Access Modifiers\\Access Modifiers.csproj",
+      "projectPath": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\02 - Classes\\Access Modifiers\\Access Modifiers.csproj",
       "packagesPath": "C:\\Users\\camer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\Classes\\Access Modifiers\\obj\\",
+      "outputPath": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\02 - Classes\\Access Modifiers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\camer\\AppData\\Roaming\\NuGet\\NuGet.Config"

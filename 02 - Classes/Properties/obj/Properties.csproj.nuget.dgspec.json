@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\Classes\\Properties\\Properties.csproj": {}
+    "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\02 - Classes\\Properties\\Properties.csproj": {}
   },
   "projects": {
-    "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\Classes\\Properties\\Properties.csproj": {
+    "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\02 - Classes\\Properties\\Properties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\Classes\\Properties\\Properties.csproj",
+        "projectUniqueName": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\02 - Classes\\Properties\\Properties.csproj",
         "projectName": "Properties",
-        "projectPath": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\Classes\\Properties\\Properties.csproj",
+        "projectPath": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\02 - Classes\\Properties\\Properties.csproj",
         "packagesPath": "C:\\Users\\camer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\Classes\\Properties\\obj\\",
+        "outputPath": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\02 - Classes\\Properties\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\camer\\AppData\\Roaming\\NuGet\\NuGet.Config"

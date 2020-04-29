@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\Classes\\Indexers\\Indexers.csproj": {}
+    "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\02 - Classes\\Indexers\\Indexers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\Classes\\Indexers\\Indexers.csproj": {
+    "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\02 - Classes\\Indexers\\Indexers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\Classes\\Indexers\\Indexers.csproj",
+        "projectUniqueName": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\02 - Classes\\Indexers\\Indexers.csproj",
         "projectName": "Indexers",
-        "projectPath": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\Classes\\Indexers\\Indexers.csproj",
+        "projectPath": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\02 - Classes\\Indexers\\Indexers.csproj",
         "packagesPath": "C:\\Users\\camer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\Classes\\Indexers\\obj\\",
+        "outputPath": "C:\\Users\\camer\\Projects\\Training\\Core\\Refresher_C-Sharp_Intermediate\\02 - Classes\\Indexers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\camer\\AppData\\Roaming\\NuGet\\NuGet.Config"
