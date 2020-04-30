@@ -21,7 +21,6 @@ namespace Boxing_and_Unboxing
             list.Add(DateTime.Today);
 
             // The best option is to use a genereic list.
-
             var anotherList = new List<int>();
             var names = new List<string>();
         }
