@@ -7,7 +7,7 @@ namespace Database_Connection
         public string ConnectionString { get; set; }
         public TimeSpan Timeout { get; set; }
 
-        public void DbConnection(string connectionString)
+        public Database_Connection(string connectionString, TimeSpan timeout)
         {
             if (string.IsNullOrWhiteSpace(connectionString))
             {
@@ -15,6 +15,8 @@ namespace Database_Connection
             }
 
             ConnectionString = connectionString;
+            //DbType = dbType;
+            Timeout = timeout;
         }
 
         public abstract void OpenConnection();

@@ -1,4 +1,6 @@
-﻿namespace Database_Connection
+﻿using System;
+
+namespace Database_Connection
 {
     /* Design a database connection
        To access a database, we need to open a connection to it first and
@@ -43,11 +45,12 @@
     {
         static void Main(string[] args)
         {
-            var sqlConnection = new SqlConnection();
+
+            var sqlConnection = new SqlConnection("SQL", new TimeSpan(0, 0, 0, 30, 0));
             sqlConnection.OpenConnection();
             sqlConnection.CloseConnection();
 
-            var OracleConnection = new OracleConnection();
+            var OracleConnection = new OracleConnection("Oracle", new TimeSpan(0, 0, 0, 30, 0));
             OracleConnection.OpenConnection();
             OracleConnection.CloseConnection();
         }
