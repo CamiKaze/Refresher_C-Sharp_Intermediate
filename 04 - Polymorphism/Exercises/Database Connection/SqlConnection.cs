@@ -4,6 +4,8 @@ namespace Database_Connection
 {
     public class SqlConnection : Database_Connection
     {
+        private string connection;
+        private TimeSpan Timeout { get; set; }
         public void Time(TimeSpan timeout)
         {
             Timeout = timeout;
@@ -11,7 +13,7 @@ namespace Database_Connection
 
         public SqlConnection(string connectionString, TimeSpan Time) : base(connectionString, Time)
         {
-            ConnectionString = connectionString;
+            connection = connectionString;
             Timeout = Time;
         }
 
@@ -22,7 +24,7 @@ namespace Database_Connection
 
         public override void CloseConnection()
         {
-            Console.WriteLine("Sql Connection Closed");
+            Console.WriteLine("SQL Connection Closed");
         }
     }
 }

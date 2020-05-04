@@ -4,6 +4,8 @@ namespace Database_Connection
 {
     public class OracleConnection : Database_Connection
     {
+        private string connection { get; set; }
+        private TimeSpan Timeout { get; set; }
         public void Time(TimeSpan timeout)
         {
             Timeout = timeout;
@@ -11,7 +13,7 @@ namespace Database_Connection
 
         public OracleConnection(string connectionString, TimeSpan Time) : base(connectionString, Time)
         {
-            ConnectionString = connectionString;
+            connection = connectionString;
             Timeout = Time;
         }
 

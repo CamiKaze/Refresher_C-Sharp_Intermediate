@@ -45,7 +45,6 @@ namespace Database_Connection
     {
         static void Main(string[] args)
         {
-
             var sqlConnection = new SqlConnection("SQL", new TimeSpan(0, 0, 0, 30, 0));
             sqlConnection.OpenConnection();
             sqlConnection.CloseConnection();

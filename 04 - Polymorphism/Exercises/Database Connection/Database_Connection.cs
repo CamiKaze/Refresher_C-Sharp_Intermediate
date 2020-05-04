@@ -4,8 +4,8 @@ namespace Database_Connection
 {
     public abstract class Database_Connection
     {
-        public string ConnectionString { get; set; }
-        public TimeSpan Timeout { get; set; }
+        private string ConnectionString { get; set; }
+        private TimeSpan Timeout { get; set; }
 
         public Database_Connection(string connectionString, TimeSpan timeout)
         {
@@ -15,12 +15,9 @@ namespace Database_Connection
             }
 
             ConnectionString = connectionString;
-            //DbType = dbType;
             Timeout = timeout;
         }
-
         public abstract void OpenConnection();
         public abstract void CloseConnection();
-
     }
 }
